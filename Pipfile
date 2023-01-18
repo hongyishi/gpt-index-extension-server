@@ -7,6 +7,8 @@ name = "pypi"
 flask = "*"
 openai = "*"
 langchain = "*"
+html2text = "*"
+gpt_index = "*"
 
 [dev-packages]
 

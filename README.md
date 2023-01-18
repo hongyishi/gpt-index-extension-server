@@ -1,1 +1,1 @@
-# talktoai-server
+# gpt-index-extension-server
